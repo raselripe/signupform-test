@@ -1,0 +1,8 @@
+.form{
+    display: flexbox;
+    margin: 150px 100px;
+    height: 400; width: 400;
+    text-align: center;
+background: fixed;
+background-color: aliceblue;
+}
